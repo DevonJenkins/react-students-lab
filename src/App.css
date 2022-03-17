@@ -1,0 +1,41 @@
+.card{
+  background: #F8FA90;
+  color: #36413E;
+  margin: 0 auto;
+  margin-top: 20px;
+  box-shadow:
+  inset 0 -3em 3em rgba(0,0,0,0.1),
+  0 0  0 2px rgb(255,255,255),
+  0.3em 0.3em 1em rgba(0,0,0,0.3);
+  width: 50%;           
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.title{
+  background: #D9F4C7;
+  padding: 20px;
+  font-size: 40px;
+}
+
+.card-text {
+  margin: 30px ;
+}
+
+.card-body{
+  background: #9DCDC0;
+  width: fit-content;
+  margin: 0 auto;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  box-shadow:
+       inset 0 -3em 3em rgba(0,0,0,0.1),
+             0 0  0 2px rgb(255,255,255),
+             0.3em 0.3em 1em rgba(0,0,0,0.3);
+  
+}
+
+.cards{
+  background: rgb(215, 198, 198);
+  background-attachment: fixed;
+  padding: 30px;
+}
