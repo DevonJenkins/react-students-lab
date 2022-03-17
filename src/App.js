@@ -6,7 +6,7 @@ function App() {
   const students = [
     {
       name: 'Bump Chump',
-      bio: "My name's bump and i'm fixin to pick you up and put you down about 75 times",
+      bio: "My name's bump and i'm fixin to lift weights for three days straight",
       scores: [
         {
           date: '2018-02-08',
@@ -46,7 +46,7 @@ function App() {
     },
     {
       name: 'Dusty Staccato',
-      bio: 'Repudiandae veritatis recusandae quidem tenetur impedit, numquam incidunt enim, adipisci id cupiditate asperiores nam perferendis. Facere odit laborum ipsum autem repellendus natus eius doloremque ullam perferendis. Enim repellendus ut veniam?',
+      bio: "I'm lookin for tech support on my hot air balloon",
       scores: [
         {
           date: '2018-10-11',
